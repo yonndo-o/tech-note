@@ -58,27 +58,16 @@ React Native 提供一系列「核心元件（Core Components）」可直接使�
 
 
 | 元件名稱 | 功能簡介 |
-
 |----------------|------------------------------------------|
-
 | `View` | 最基本的容器元件，類似 HTML 的 `<div>` |
-
 | `Text` | 顯示文字內容，類似 `<p>` 或 `<span>` |
-
 | `Image` | 顯示圖片，類似 `<img>` |
-
 | `TextInput` | 文字輸入框，類似 `<input type="text">` |
-
 | `ScrollView` | 可滾動的容器，適合少量資料 |
-
 | `FlatList` | 高效能列表元件，適合大量資料 |
-
 | `SectionList` | 分組列表元件，適合分類資料 |
-
 | `Button` | 基本按鈕元件 |
-
 | `Modal` | 顯示彈出視窗 |
-
 | `StyleSheet` | 定義樣式的工具，類似 CSS |
 
 
