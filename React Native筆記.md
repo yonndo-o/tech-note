@@ -101,17 +101,11 @@ React Native 提供一系列「核心元件（Core Components）」可直接使�
 
 
 | 套件名稱 | 功能簡介 |
-
 |---------------------------|------------------------------------------|
-
 | `react-native-vector-icons` | 提供大量圖示支援 |
-
 | `react-native-paper` | Material Design UI 元件庫 |
-
 | `react-native-elements` | 通用 UI 元件庫，支援主題與樣式客製化 |
-
 | `react-native-maps` | 地圖元件，支援標記、路線等功能 |
-
 | `react-native-gesture-handler` | 手勢操作支援 |
 
 
@@ -210,19 +204,12 @@ React Hooks 讓函式型元件也能使用 React 的核心功能，包括狀態�
 
 
 | 分類 | Hooks | 說明 |
-
 |----------------|----------------------------------------------------------------|----------------------------------------------|
-
 | 狀態 Hooks | `useState`、`useReducer` | 管理元件的可變資料；`useReducer` 適合複雜更新邏輯 |
-
 | Context Hooks | `useContext` | 從上層 Context 取得並訂閱資料 |
-
 | Refs Hooks | `useRef`、`useImperativeHandle` | 儲存不會觸發渲染的值（如 DOM 節點、計時器 ID） |
-
 | Effect Hooks | `useEffect`、`useLayoutEffect`、`useInsertionEffect` | 處理副作用：網路請求、DOM 操作、外部 API 呼叫 |
-
 | 效能 Hooks | `useMemo`、`useCallback`、`useTransition`、`useDeferredValue` | 緩存計算結果、優化函式、分流非同步更新優先級 |
-
 | 其他 Hooks | `useDebugValue`、`useId`、`useSyncExternalStore`、`useActionState` | 主要供函式庫作者使用，調試或訂閱外部狀態 |
 
 
